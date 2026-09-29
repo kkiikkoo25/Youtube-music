@@ -6,6 +6,6 @@
 
   <p>The fastest path from prompt to production with Gemini.</p>
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+  <a href="https://ai.studio/apps/7a70c38f-a486-45c3-8b9a-ebd038dfb005">Start building</a>
 
 </div>
